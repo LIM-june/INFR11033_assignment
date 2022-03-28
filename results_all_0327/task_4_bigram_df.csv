@@ -1,0 +1,2 @@
+self-prob,accuracy,num_arcs,num_states,decode_time,backtrace_time,forward_cnt
+,0.7754288202240939,316.0,116.0,5.321875608471078,0.0007079641583939673,18818958.08450704
